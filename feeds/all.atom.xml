@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+ <title type="text">Lost Library: Lost Library</title>
+ <link rel="self" href="http://stephenfoster.us/feeds/all.atom.xml" />
+ <link href="http://stephenfoster.us/index.html" />
+ <id>urn:http-stephenfoster-us:-index-html</id>
+ <updated>2019-09-19T14:40:41Z</updated>
+ <entry>
+  <title type="text">Language Oriented Programming</title>
+  <link rel="alternate" href="http://stephenfoster.us/2019/09/language-oriented-programming.html?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:http-stephenfoster-us:-2019-09-language-oriented-programming-html</id>
+  <published>2019-09-19T14:40:41Z</published>
+  <updated>2019-09-19T14:40:41Z</updated>
+  <author>
+   <name>Stephen R. Foster</name></author>
+  <content type="html">
+&lt;p&gt;A practice a style of coding called "Language-Oriented Programming".
+It&amp;rsquo;s a philosophy that has made me a better person &amp;ndash; and a better coder as well.&lt;/p&gt;&lt;a href="http://stephenfoster.us/2019/09/language-oriented-programming.html?utm_source=all&amp;amp;utm_medium=Atom"&gt;&lt;em&gt;More&amp;hellip;&lt;/em&gt;&lt;/a&gt;</content></entry>
+ <entry>
+  <title type="text">Science of Storytelling</title>
+  <link rel="alternate" href="http://stephenfoster.us/2019/09/science-of-storytelling.html?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:http-stephenfoster-us:-2019-09-science-of-storytelling-html</id>
+  <published>2019-09-19T14:32:25Z</published>
+  <updated>2019-09-19T14:32:25Z</updated>
+  <author>
+   <name>Stephen R. Foster</name></author>
+  <content type="html">
+&lt;p&gt;https://lifehacker.com/the-science-of-storytelling-why-telling-a-story-is-the-5965703&lt;/p&gt;&lt;a href="http://stephenfoster.us/2019/09/science-of-storytelling.html?utm_source=all&amp;amp;utm_medium=Atom"&gt;&lt;em&gt;More&amp;hellip;&lt;/em&gt;&lt;/a&gt;</content></entry>
+ <entry>
+  <title type="text">Lost Library</title>
+  <link rel="alternate" href="http://stephenfoster.us/2019/09/lost-library.html?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:http-stephenfoster-us:-2019-09-lost-library-html</id>
+  <published>2019-09-15T00:00:00Z</published>
+  <updated>2019-09-15T00:00:00Z</updated>
+  <author>
+   <name>Stephen R. Foster</name></author>
+  <content type="html">
+&lt;p&gt;My father had two unspoken rules about his books: 1) every time you go to a bookstore, you must leave with at least one book; and 2) you must never, ever get rid of books. His collection had begun before I was born and was growing until just weeks before he passed away when I was 32. To give you an idea&amp;hellip;&lt;/p&gt;&lt;a href="http://stephenfoster.us/2019/09/lost-library.html?utm_source=all&amp;amp;utm_medium=Atom"&gt;&lt;em&gt;More&amp;hellip;&lt;/em&gt;&lt;/a&gt;</content></entry></feed>

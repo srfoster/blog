@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+ <title type="text">Lost Library: Posts tagged 'LOP'</title>
+ <link rel="self" href="http://stephenfoster.us/feeds/LOP.atom.xml" />
+ <link href="http://stephenfoster.us/tags/LOP.html" />
+ <id>urn:http-stephenfoster-us:-tags-LOP-html</id>
+ <updated>2019-09-19T14:40:41Z</updated>
+ <entry>
+  <title type="text">Language Oriented Programming</title>
+  <link rel="alternate" href="http://stephenfoster.us/2019/09/language-oriented-programming.html?utm_source=LOP&amp;utm_medium=Atom" />
+  <id>urn:http-stephenfoster-us:-2019-09-language-oriented-programming-html</id>
+  <published>2019-09-19T14:40:41Z</published>
+  <updated>2019-09-19T14:40:41Z</updated>
+  <author>
+   <name>Stephen R. Foster</name></author>
+  <content type="html">
+&lt;p&gt;A practice a style of coding called "Language-Oriented Programming".
+It&amp;rsquo;s a philosophy that has made me a better person &amp;ndash; and a better coder as well.&lt;/p&gt;&lt;a href="http://stephenfoster.us/2019/09/language-oriented-programming.html?utm_source=LOP&amp;amp;utm_medium=Atom"&gt;&lt;em&gt;More&amp;hellip;&lt;/em&gt;&lt;/a&gt;</content></entry></feed>

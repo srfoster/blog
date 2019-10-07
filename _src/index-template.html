@@ -1,0 +1,18 @@
+@(local-require "../util/main.rkt")
+
+<div class="col-sm-6" style="padding: 5px;">
+<article> 
+  <img align="left" style="height: 250px; margin-right: 10px;" src="/img/spine.jpg"></img>
+  <header>
+    <h2><a href='@|uri-path|'>@|title|</a></h2>
+    <p class='date-and-tags'>@|date| :: @|tags|</p>
+    <p class='authors'>By: @|authors|</p>
+  </header>
+  @|content-only|
+  @(when more?
+    @list{<footer>
+            <a href='@|uri-path|'>&hellip; more &hellip;</a>
+          </footer>})
+</article>
+</div>
+

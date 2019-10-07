@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+ <title type="text">Lost Library: Posts tagged 'test'</title>
+ <link rel="self" href="http://stephenfoster.us/feeds/test.atom.xml" />
+ <link href="http://stephenfoster.us/tags/test.html" />
+ <id>urn:http-stephenfoster-us:-tags-test-html</id>
+ <updated>2019-09-15T00:00:00Z</updated>
+ <entry>
+  <title type="text">Lost Library</title>
+  <link rel="alternate" href="http://stephenfoster.us/2019/09/lost-library.html?utm_source=test&amp;utm_medium=Atom" />
+  <id>urn:http-stephenfoster-us:-2019-09-lost-library-html</id>
+  <published>2019-09-15T00:00:00Z</published>
+  <updated>2019-09-15T00:00:00Z</updated>
+  <author>
+   <name>Stephen R. Foster</name></author>
+  <content type="html">
+&lt;p&gt;My father had two unspoken rules about his books: 1) every time you go to a bookstore, you must leave with at least one book; and 2) you must never, ever get rid of books. His collection had begun before I was born and was growing until just weeks before he passed away when I was 32. To give you an idea&amp;hellip;&lt;/p&gt;&lt;a href="http://stephenfoster.us/2019/09/lost-library.html?utm_source=test&amp;amp;utm_medium=Atom"&gt;&lt;em&gt;More&amp;hellip;&lt;/em&gt;&lt;/a&gt;</content></entry></feed>
