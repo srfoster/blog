@@ -25,7 +25,7 @@ article img {
   height: auto;
 }
 
-blockquote:before {
+blockquote.fancy:before {
   content: open-quote;
   display: inline;
   height: 0;
@@ -42,7 +42,7 @@ p.quotation{
   margin-bottom: 20px;
 }
 
-blockquote{
+blockquote.fancy{
   font-size: 30px;
   background: #f9f9f9;
   border-left: 10px solid #ccc;
@@ -64,3 +64,17 @@ h1{
   width: 100%;
 }
 
+
+article .container p{
+  font-size: 1.5em;
+}
+
+article .container p img{
+  float: left;
+}
+
+article.index p img{
+  float: left;
+  width: 70px;
+  margin: 5px !important;
+}

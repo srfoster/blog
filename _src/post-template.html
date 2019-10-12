@@ -3,10 +3,9 @@
   <header>
     <h1>@|title|</h1>
     <p class='date-and-tags'>@|date| :: @|tags|</p>
-    <p class='authors'>By: @|authors|</p>
   </header>
   <div class="container">
-  @|content|
+  @(regexp-replace* #px"[.][.][.]</p>.*<!--more-->.*<p>[.][.][.]" content "")
   </div>
   <footer>
     @twitter-share-button[full-uri]
