@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+ <title type="text">Lost Library: Posts tagged '1-minute read'</title>
+ <link rel="self" href="http://stephenfoster.us/feeds/1-minute-read.atom.xml" />
+ <link href="http://stephenfoster.us/tags/1-minute-read.html" />
+ <id>urn:http-stephenfoster-us:-tags-1-minute-read-html</id>
+ <updated>2019-10-16T14:33:00Z</updated>
+ <entry>
+  <title type="text">Teacher-Thanks</title>
+  <link rel="alternate" href="http://stephenfoster.us/2019/10/teacher-thanks.html?utm_source=1-minute-read&amp;utm_medium=Atom" />
+  <id>urn:http-stephenfoster-us:-2019-10-teacher-thanks-html</id>
+  <published>2019-10-16T14:33:00Z</published>
+  <updated>2019-10-16T14:33:00Z</updated>
+  <author>
+   <name>Stephen R. Foster</name></author>
+  <content type="html">
+&lt;p&gt;As a teacher, I find myself eternally grateful to my own teachers.  This post is an attempt to say thank you to people I can never repay.&lt;/p&gt;&lt;a href="http://stephenfoster.us/2019/10/teacher-thanks.html?utm_source=1-minute-read&amp;amp;utm_medium=Atom"&gt;&lt;em&gt;More&amp;hellip;&lt;/em&gt;&lt;/a&gt;</content></entry></feed>
