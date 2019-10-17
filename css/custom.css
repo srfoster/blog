@@ -78,3 +78,8 @@ article.index p img{
   width: 70px;
   margin: 5px !important;
 }
+
+
+ul{
+  overflow: hidden;
+}

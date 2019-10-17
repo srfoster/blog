@@ -1,0 +1,1 @@
+("7.3" racket ("f8ace1cf7695885c523529495a14eb77b173ef6f" . "7b1bf831cac6921aa75fda83265e5f25909ac6fd") (collects #"book-spines" #"main.rkt") (collects #"file" #"convertible.rkt") (collects #"net" #"base64.rkt") (collects #"pict" #"main.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))

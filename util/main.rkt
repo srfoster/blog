@@ -1,6 +1,7 @@
 #lang racket
 
 (provide book-image
+  book-pict
   inline-book-image
   pict->img
   (all-from-out pict))
@@ -28,12 +29,15 @@
   book-list
   counter))
 
-(define (book-image title tags)
- (pict->img
+(define (book-pict title tags)
   (scale 
    (with-text (first-word title)
     (next-book!))
-   0.5)))
+   0.5))
+
+(define (book-image title tags)
+ (pict->img
+   (book-image title tags)))
 
 
 (define (pict->img pict)
